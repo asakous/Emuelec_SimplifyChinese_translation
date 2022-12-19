@@ -319,25 +319,25 @@ msgid "AN ERROR OCCURED"
 msgstr "出現錯誤"
 
 msgid "THEME UNINSTALLED SUCCESSFULLY"
-msgstr "主題卸載成功"
+msgstr "主題移除成功"
 
 msgid "BEZELS INSTALLED SUCCESSFULLY"
 msgstr "框架安裝成功"
 
 msgid "BEZELS UNINSTALLED SUCCESSFULLY"
-msgstr "BEZELS卸載成功"
+msgstr "BEZELS移除成功"
 
 msgid "PACKAGE INSTALLED SUCCESSFULLY"
 msgstr "包安裝成功"
 
 msgid "PACKAGE REMOVED SUCCESSFULLY"
-msgstr "包卸載成功"
+msgstr "包移除成功"
 
 msgid "RETROACHIEVEMENT SETTINGS"
 msgstr ""
 
 msgid "SETTINGS"
-msgstr "設置"
+msgstr "設定"
 
 msgid "RETROACHIEVEMENTS"
 msgstr "RetroArch成就"
@@ -423,7 +423,7 @@ msgid "SYSTEMS"
 msgstr "遊戲平台"
 
 msgid "GAME COLLECTION SETTINGS"
-msgstr "遊戲合輯設置"
+msgstr "遊戲合輯設定"
 
 msgid "COLLECTIONS TO DISPLAY"
 msgstr "要顯示的合輯"
@@ -547,7 +547,7 @@ msgid "LAUNCH"
 msgstr "啟動"
 
 msgid "NETPLAY SETTINGS"
-msgstr "聯網遊戲設置"
+msgstr "聯網遊戲設定"
 
 msgid "ENABLE NETPLAY"
 msgstr "啟用聯網遊戲"
@@ -556,7 +556,7 @@ msgid "NICKNAME"
 msgstr "暱稱"
 
 msgid "PORT"
-msgstr "端口"
+msgstr "連接埠"
 
 msgid "USE RELAY SERVER"
 msgstr "使用中繼服務"
@@ -640,7 +640,7 @@ msgid "ADD/REMOVE GAMES TO THIS GAME COLLECTION"
 msgstr "向遊戲合輯中 添加/刪除 遊戲"
 
 msgid "GAME OPTIONS"
-msgstr "遊戲設置"
+msgstr "遊戲設定"
 
 msgid "ADVANCED SYSTEM OPTIONS"
 msgstr "高級系統選項"
@@ -781,7 +781,7 @@ msgid "No items"
 msgstr "在此視角下沒東西"
 
 msgid "MISC"
-msgstr "雜項"
+msgstr "其它設定"
 
 msgid "UPDATE"
 msgstr "更新"
@@ -791,7 +791,7 @@ msgid "'%s' ADDED TO DOWNLOAD QUEUE"
 msgstr "將 '%s' 添加到下載隊列"
 
 msgid "REMOVE"
-msgstr "卸載"
+msgstr "移除"
 
 msgid "UNINSTALLATION ADDED TO QUEUE"
 msgstr ""
@@ -822,7 +822,7 @@ msgid "random video"
 msgstr "隨機影片"
 
 msgid "slideshow"
-msgstr "片段展示"
+msgstr "幻燈片展示"
 
 msgid "always"
 msgstr "總是"
@@ -840,25 +840,25 @@ msgid "random"
 msgstr "隨機"
 
 msgid "SCREENSAVER SETTINGS"
-msgstr "屏保設置"
+msgstr "營幕保護設定"
 
 msgid "START SCREENSAVER AFTER"
-msgstr "屏保等待時間"
+msgstr "營幕保護等待時間"
 
 msgid "SCREENSAVER TYPE"
-msgstr "屏保樣式"
+msgstr "營幕保護樣式"
 
 msgid "STOP MUSIC ON SCREENSAVER"
-msgstr "錄屏時停止音樂"
+msgstr "營幕保護時停止音樂"
 
 msgid "RANDOM VIDEO SCREENSAVER SETTINGS"
-msgstr "屏保-隨機影片設置"
+msgstr "營幕保護-隨機影片設定"
 
 msgid "VIDEO DURATION (SECS)"
 msgstr ""
 
 msgid "USE OMX PLAYER FOR SCREENSAVER"
-msgstr "屏保使用 OMX 播放器"
+msgstr "營幕保護使用 OMX 播放器"
 
 msgid "SHOW GAME INFO"
 msgstr "顯示遊戲資訊"
@@ -876,7 +876,7 @@ msgid "MUTE VIDEO AUDIO"
 msgstr "影片靜音"
 
 msgid "SCREENSAVER CONTROLS"
-msgstr "屏保控制選項"
+msgstr "營幕保護控制選項"
 
 msgid "USE CUSTOM VIDEOS"
 msgstr "使用自定影片"
@@ -891,7 +891,7 @@ msgid "CUSTOM VIDEO FILE EXTENSIONS"
 msgstr ""
 
 msgid "SLIDESHOW SCREENSAVER SETTINGS"
-msgstr "屏保-幻燈片設置"
+msgstr "營幕保護-幻燈片設定"
 
 msgid "IMAGE DURATION (SECS)"
 msgstr "圖像替換 (SECS)"
@@ -1177,7 +1177,7 @@ msgid "SCRAPE MANUAL"
 msgstr "抓取手冊"
 
 msgid "SCRAPE PADTOKEY SETTINGS"
-msgstr "抓取pad按鍵設置"
+msgstr "抓取pad按鍵設定"
 
 msgid "SCRAPER"
 msgstr "抓取元數據"
@@ -1362,7 +1362,7 @@ msgid "CONTROLLER SETTINGS"
 msgstr ""
 
 msgid "CONTROLLER & BLUETOOTH SETTINGS"
-msgstr "控制器設置"
+msgstr "控制器設定"
 
 msgid "INTERNAL"
 msgstr ""
@@ -1386,25 +1386,25 @@ msgid "GAME SETTINGS"
 msgstr ""
 
 msgid "UI SETTINGS"
-msgstr "UI 設置"
+msgstr "UI 設定"
 
 msgid "SOUND SETTINGS"
-msgstr "聲音設置"
+msgstr "聲音設定"
 
 msgid "NETWORK SETTINGS"
-msgstr "網絡設置"
+msgstr "網絡設定"
 
 msgid "CONFIGURE INPUT"
 msgstr "配置控制器"
 
 msgid "EMULATOR SETTINGS"
-msgstr "模擬器設置"
+msgstr "模擬器設定"
 
 msgid "UPDATES & DOWNLOADS"
 msgstr "更新文件和下載文件"
 
 msgid "SYSTEM SETTINGS"
-msgstr "系統設置"
+msgstr "系統設定"
 
 msgid "UNLOCK UI MODE"
 msgstr "界面不鎖定"
@@ -1660,7 +1660,7 @@ msgid "Do you want to proceed?"
 msgstr "是否繼續?"
 
 msgid "KODI SETTINGS"
-msgstr "KODI設置"
+msgstr "KODI設定"
 
 msgid "ENABLE KODI"
 msgstr "啟用KODI"
@@ -1774,7 +1774,7 @@ msgid "BACKUP USER DATA"
 msgstr "備份用戶數據"
 
 msgid "ADVANCED"
-msgstr "高級設置"
+msgstr "高級設定"
 
 msgid "SECURITY"
 msgstr "安全性保護"
@@ -1849,7 +1849,7 @@ msgid "INTEGER SCALING (PIXEL PERFECT)"
 msgstr "整數縮放 (像素完美顯示)"
 
 msgid "SHADER SET"
-msgstr "著色器設置"
+msgstr "著色器設定"
 
 msgid "DECORATIONS"
 msgstr "裝飾框"
@@ -2050,7 +2050,7 @@ msgid "APPEARANCE"
 msgstr ""
 
 msgid "THEME SET"
-msgstr "主題設置"
+msgstr "主題設定"
 
 msgid "video"
 msgstr "遊戲影片"
@@ -2625,7 +2625,7 @@ msgid ""
 "MAY BE EVEN MORE INACCURATE THAN USUAL!\n"
 "CONTINUE ANYWAY?"
 msgstr ""
-"警告: 你的選擇中有未進行平台設置的的遊戲平台。\n"
+"警告: 你的選擇中有未進行平台設定的的遊戲平台。\n"
 " 抓取結果可能不準確! \n"
 "是否繼續抓取?"
 
@@ -2685,7 +2685,7 @@ msgid "INVALID PARAMETERS"
 msgstr "參數無效"
 
 msgid "GAME COLLECTION SETTINGS"
-msgstr "遊戲合輯設置"
+msgstr "遊戲合輯設定"
 
 msgid "COLLECTIONS TO DISPLAY"
 msgstr "要顯示的合輯"
@@ -2829,7 +2829,7 @@ msgid "THEMES DOWNLOADER"
 msgstr "主題下載"
 
 msgid "SELECT THEMES TO INSTALL/REMOVE"
-msgstr "選擇主題安裝/卸載"
+msgstr "選擇主題安裝/移除"
 
 msgid "UPDATE"
 msgstr "更新"
@@ -2839,10 +2839,10 @@ msgid "'%s' ADDED TO DOWNLOAD QUEUE"
 msgstr "將 '%s' 添加到下載隊列"
 
 msgid "REMOVE"
-msgstr "卸載"
+msgstr "移除"
 
 msgid "THEME UNINSTALLED SUCCESSFULLY"
-msgstr "主題卸載成功"
+msgstr "主題移除成功"
 
 #, c-format
 msgid "CURRENT THEME"
@@ -2904,10 +2904,10 @@ msgid "PUBLICLY ANNOUNCE GAME"
 msgstr ""
 
 msgid "SET PLAYER PASSWORD"
-msgstr "設置玩家密碼"
+msgstr "設定玩家密碼"
 
 msgid "SET VIEWER PASSWORD"
-msgstr "設置觀看者密碼"
+msgstr "設定觀看者密碼"
 
 msgid "FIND SIMILAR GAMES..."
 msgstr "尋找類似遊戲..."
@@ -3044,10 +3044,10 @@ msgid "SHADERS"
 msgstr "著色器"
 
 msgid "CONTROLLERS SETTINGS"
-msgstr "控制器設置"
+msgstr "控制器設定"
 
 msgid "CONTROLLER & BLUETOOTH SETTINGS"
-msgstr "控制器和藍牙設置"
+msgstr "控制器和藍牙設定"
 
 msgid "MAIN MENU"
 msgstr "主選單"
@@ -3056,34 +3056,34 @@ msgid "KODI MEDIA CENTER"
 msgstr "KODI 媒體中心"
 
 msgid "EMUELEC SETTINGS"
-msgstr "EMUELEC設置"
+msgstr "EMUELEC設定"
 
 msgid "RETROACHIEVEMENTS"
 msgstr "RetroArch成就"
 
 msgid "GAME SETTINGS"
-msgstr "遊戲設置"
+msgstr "遊戲設定"
 
 msgid "UI SETTINGS"
-msgstr "UI 設置"
+msgstr "UI 設定"
 
 msgid "SOUND SETTINGS"
-msgstr "聲音設置"
+msgstr "聲音設定"
 
 msgid "NETWORK SETTINGS"
-msgstr "網絡設置"
+msgstr "網絡設定"
 
 msgid "CONFIGURE INPUT"
 msgstr "配置控制器"
 
 msgid "EMULATOR SETTINGS"
-msgstr "模擬器設置"
+msgstr "模擬器設定"
 
 msgid "UPDATES & DOWNLOADS"
 msgstr "更新文件和下載文件"
 
 msgid "SYSTEM SETTINGS"
-msgstr "系統設置"
+msgstr "系統設定"
 
 msgid "INFORMATIONS"
 msgstr "信息"
@@ -3098,7 +3098,7 @@ msgid "VIDEO MODE"
 msgstr "影片模式"
 
 msgid "You are about to set EmuELEC resolution to:"
-msgstr "你將要將EmuELEC分辨率設置為："
+msgstr "你將要將EmuELEC分辨率設定為："
 
 msgid "Do you want to proceed ?"
 msgstr "是否繼續?"
@@ -3175,7 +3175,7 @@ msgid ""
 msgstr ""
 
 msgid "BACKUP EMUELEC CONFIGS"
-msgstr "備份EmuELEC設置"
+msgstr "備份EmuELEC設定"
 
 msgid ""
 "WARNING THIS WILL RESTART EMULATIONSTATION!\n"
@@ -3211,7 +3211,7 @@ msgstr ""
 "重置EmuELEC腳本和系統文件到初始狀態並重啟?"
 
 msgid "RESET RETROARCH CONFIG TO DEFAULT"
-msgstr "重置RETROARCH設置到預設"
+msgstr "重置RETROARCH設定到預設"
 
 msgid ""
 "WARNING: RETROARCH CONFIG WILL RESET TO DEFAULT\n"
@@ -3220,14 +3220,14 @@ msgid ""
 "\n"
 "RESET RETROARCH CONFIG TO DEFAULT?"
 msgstr ""  
-"警告：RETROARCH設置將會重置到預設\n"
+"警告：RETROARCH設定將會重置到預設\n"
 "\n"
 "核心前配置將不會受到影響但不會創建任何備份!\n"
 "\n"
-"重置RETROARCH設置到預設?"
+"重置RETROARCH設定到預設?"
 
 msgid "RESET SYSTEM TO DEFAULT CONFIG"
-msgstr "重置系統到預設設置"
+msgstr "重置系統到預設設定"
 
 msgid ""
 "WARNING: ALL CONFIGURATIONS WILL BE RESET AND NO BACKUP WILL BE CREATED!\n"
@@ -3238,9 +3238,9 @@ msgid ""
 "RESET SYSTEM TO DEFAULT CONFIG AND RESTART?"
 msgstr ""      
 "警告：所有配置將會重置且不會創建任何備份!\n"
-"如果你想保留你的設置，創建一個備份並保存到外部存儲設備\n"
+"如果你想保留你的設定，創建一個備份並保存到外部存儲設備\n"
 "再執行這個操作!\n"
-"重置系統到預設設置並重啟?"
+"重置系統到預設設定並重啟?"
 
 msgid "FORCE UPDATE"
 msgstr "強制更新"
@@ -3325,7 +3325,7 @@ msgid "SCRAPE MANUAL"
 msgstr "抓取手冊"
 
 msgid "SCRAPE PADTOKEY SETTINGS"
-msgstr "抓取pad按鍵設置"
+msgstr "抓取pad按鍵設定"
 
 msgid "USERNAME"
 msgstr "用戶名"
@@ -3334,7 +3334,7 @@ msgid "PASSWORD"
 msgstr "密碼"
 
 msgid "ARE YOU SURE YOU WANT TO CONFIGURE INPUT?"
-msgstr "你確定需要設置控制器嗎"
+msgstr "你確定需要設定控制器嗎"
 
 msgid "CHOOSE"
 msgstr "瀏覽"
@@ -3575,7 +3575,7 @@ msgstr ""
 "如果需要返回完整模式，請按順序輸入以下按鍵："
 
 msgid "KODI SETTINGS"
-msgstr "KODI設置"
+msgstr "KODI設定"
 
 msgid "ENABLE KODI"
 msgstr "啟用KODI"
@@ -3620,10 +3620,10 @@ msgid "NO SPLASH"
 msgstr ""
 
 msgid "RETROACHIEVEMENTS SETTINGS"
-msgstr "RetroArch成就設置"
+msgstr "RetroArch成就設定"
 
 msgid "NETPLAY SETTINGS"
-msgstr "聯網遊戲設置"
+msgstr "聯網遊戲設定"
 
 msgid "MISSING BIOS"
 msgstr "缺失的BIOS"
@@ -3686,7 +3686,7 @@ msgid "INSTALL BATOCERA ON A NEW DISK"
 msgstr "安裝 BATOCERA 到 新磁盤"
 
 msgid "ADVANCED"
-msgstr "高級設置"
+msgstr "高級設定"
 
 msgid "SECURITY"
 msgstr "安全性保護"
@@ -3698,7 +3698,7 @@ msgid "ROOT PASSWORD"
 msgstr "管理員密碼"
 
 msgid "You are about to set EmuELEC Language to:"
-msgstr "你即將設置 EmuELEC 語言為："
+msgstr "你即將設定 EmuELEC 語言為："
 
 msgid "Emulationstation will restart"
 msgstr "Emulationstation 即將重啟"
@@ -3737,7 +3737,7 @@ msgid ""
 msgstr "避免從核心要求的時脈偏離。 G-Sync, FreeSync, HDMI 2.1 VRR."
 
 msgid "SETTINGS"
-msgstr "設置"
+msgstr "設定"
 
 msgid "HARDCORE MODE"
 msgstr "專家模式"
@@ -3782,7 +3782,7 @@ msgid "NICKNAME"
 msgstr "暱稱"
 
 msgid "PORT"
-msgstr "端口"
+msgstr "連接埠"
 
 msgid "USE RELAY SERVER"
 msgstr "使用中繼服務"
@@ -3791,7 +3791,7 @@ msgid "CHECK MISSING INDEXES AT STARTUP"
 msgstr "啟動時檢查丟失的索引"
 
 msgid "DEFAULT SETTINGS"
-msgstr "預設設置"
+msgstr "預設設定"
 
 msgid "GAME RATIO"
 msgstr "遊戲顯示比例"
@@ -3824,7 +3824,7 @@ msgid "SHOW SNAPSHOTS IF NOT EMPTY"
 msgstr "有截圖時顯示截圖"
 
 msgid "SHADERS SET"
-msgstr "著色器設置"
+msgstr "著色器設定"
 
 msgid "DECORATION"
 msgstr "裝飾框"
@@ -3848,7 +3848,7 @@ msgid "PAUSE ON TRANSLATED SCREEN"
 msgstr "翻譯時暫停"
 
 msgid "PER SYSTEM ADVANCED CONFIGURATION"
-msgstr "各系統的高級設置"
+msgstr "各系統的高級設定"
 
 msgid "GAME HASHING IS RUNNING. DO YOU WANT TO STOP IT ?"
 msgstr "正在效驗遊戲.你想停止嗎?"
@@ -3868,10 +3868,10 @@ msgid ""
 msgstr ""
 "您即將開始控制器配置。\n"
 "如果您的控制器只有一個類比搖桿\n"
-"請在設置完方向鍵後，按住任意鍵跳過類比搖桿設置。\n"
+"請在設定完方向鍵後，按住任意鍵跳過類比搖桿設定。\n"
 "如果您的控制器沒有多餘的按鍵可配置為 \"熱鍵\" 按鈕，\n"
 "請使用 \"選擇\" 按鈕的按鍵同時作為 \"熱鍵\"。\n"
-"長按任意鍵可跳過設置。按鈕名稱基於SNES控制器。"
+"長按任意鍵可跳過設定。按鈕名稱基於SNES控制器。"
 
 msgid "PAIR A BLUETOOTH DEVICE"
 msgstr "配對一個藍牙設備"
@@ -3977,7 +3977,7 @@ msgid "APPEARENCE"
 msgstr "外觀"
 
 msgid "THEME SET"
-msgstr "主題設置"
+msgstr "主題設定"
 
 msgid "video"
 msgstr "遊戲影片"
@@ -3989,7 +3989,7 @@ msgid "DISPLAY OPTIONS"
 msgstr "視圖畫面選項"
 
 msgid "SCREENSAVER SETTINGS"
-msgstr "屏保設置"
+msgstr "營幕保護設定"
 
 msgid "TRANSITION STYLE"
 msgstr "畫面轉場樣式"
@@ -4094,7 +4094,7 @@ msgid "LISTENING NOW"
 msgstr "開始聆聽"
 
 msgid "LAUNCH SCREENSAVER"
-msgstr "啟動屏保"
+msgstr "啟動營幕保護"
 
 msgid "VIEW USER'S MANUAL"
 msgstr "查看用戶手冊"
@@ -4308,10 +4308,10 @@ msgid "WATCH GAME"
 msgstr "觀看遊戲"
 
 msgid "SELECT BEZELS TO INSTALL/REMOVE"
-msgstr "選擇外框的安裝 / 卸載"
+msgstr "選擇外框的安裝 / 移除"
 
 msgid "BEZELS UNINSTALLED SUCCESSFULLY"
-msgstr "外框卸載成功"
+msgstr "外框移除成功"
 
 msgid "VIEW OPTIONS"
 msgstr "視圖選項"
@@ -4344,7 +4344,7 @@ msgid "FILTER GAMES BY TEXT"
 msgstr "以文字過濾遊戲"
 
 msgid "SELECT CONTENT TO INSTALL / REMOVE"
-msgstr "選擇內容以便安裝 / 卸載"
+msgstr "選擇內容以便安裝 / 移除"
 
 msgid "UPDATE INSTALLED CONTENT"
 msgstr "更新已安裝內容"
@@ -4353,10 +4353,10 @@ msgid "There are no items in this view"
 msgstr "在此視角下沒東西"
 
 msgid "MISC"
-msgstr "雜項"
+msgstr "其它設定"
 
 msgid "UNINSTALL ADDED TO QUEUE"
-msgstr "添加卸載到隊伍"
+msgstr "添加移除到隊伍"
 
 msgid "NO DEVICE FOUND"
 msgstr "未找到設備"
@@ -4422,7 +4422,7 @@ msgid "random video"
 msgstr "隨機影片"
 
 msgid "slideshow"
-msgstr "片段展示"
+msgstr "幻燈片展示"
 
 msgid "start & end"
 msgstr "開始和結束"
@@ -4437,25 +4437,25 @@ msgid "START SCREENSAVER AFTER"
 msgstr "啟動屏幕保護等待時間"
 
 msgid "SCREENSAVER TYPE"
-msgstr "屏保類型"
+msgstr "營幕保護類型"
 
 msgid "STOP MUSIC ON SCREENSAVER"
 msgstr "錄屏時停止音樂"
 
 msgid "RANDOM VIDEO SCREENSAVER SETTINGS"
-msgstr "屏保-隨機影片設置"
+msgstr "營幕保護-隨機影片設定"
 
 msgid "SWAP VIDEO AFTER (SECS)"
 msgstr "影片替換 (SECS)"
 
 msgid "USE OMX PLAYER FOR SCREENSAVER"
-msgstr "屏保使用 OMX 播放器"
+msgstr "營幕保護使用 OMX 播放器"
 
 msgid "SHOW GAME INFO"
 msgstr "顯示遊戲資訊"
 
 msgid "SHOW GAME INFO ON SCREENSAVER"
-msgstr "屏保顯示遊戲資訊"
+msgstr "營幕保護顯示遊戲資訊"
 
 msgid "USE MARQUEE AS GAME INFO"
 msgstr "使用懸浮蒙版圖片作為遊戲資訊"
@@ -4464,13 +4464,13 @@ msgid "DECORATIONS"
 msgstr "裝飾框"
 
 msgid "STRETCH VIDEO ON SCREENSAVER"
-msgstr "屏保拉伸顯示"
+msgstr "營幕保護拉伸顯示"
 
 msgid "MUTE VIDEO AUDIO"
 msgstr "影片靜音"
 
 msgid "SCREENSAVER CONTROLS"
-msgstr "屏保控制選項"
+msgstr "營幕保護控制選項"
 
 msgid "USE CUSTOM VIDEOS"
 msgstr "使用自定影片"
@@ -4485,7 +4485,7 @@ msgid "CUSTOM VIDEO FILTER"
 msgstr "自定義影片過濾器"
 
 msgid "SLIDESHOW SCREENSAVER SETTINGS"
-msgstr "屏保-幻燈片設置"
+msgstr "營幕保護-幻燈片設定"
 
 msgid "SWAP IMAGE AFTER (SECS)"
 msgstr "圖像替換 (SECS)"
@@ -4650,7 +4650,7 @@ msgid "PACKAGE INSTALLED SUCCESSFULLY"
 msgstr "包安裝成功"
 
 msgid "PACKAGE REMOVED SUCCESSFULLY"
-msgstr "包卸載成功"
+msgstr "包移除成功"
 
 msgid "SCANNING BLUETOOTH"
 msgstr "正在掃瞄藍牙設備"
@@ -4699,7 +4699,7 @@ msgid "Games similar to"
 msgstr ""
 
 msgid "GAME OPTIONS"
-msgstr "遊戲設置"
+msgstr "遊戲設定"
 
 msgid "FAVORITE"
 msgstr "收藏"
@@ -5184,7 +5184,7 @@ msgid "UPDATE GAMELISTS TO APPLY CHANGES."
 msgstr "更新遊戲列表以應用變更。"   
 
 msgid "DEFAULT GLOBAL SETTINGS"
-msgstr "預設全局設置"      
+msgstr "預設全局設定"      
 
 msgid "GAME ASPECT RATIO"
 msgstr "遊戲畫面比例"
@@ -5212,7 +5212,7 @@ msgid "Display save state manager before launching a game."
 msgstr "啟動一個遊戲前顯示存檔管理器"    
 
 msgid "RETROACHIEVEMENT SETTINGS"
-msgstr "RETROACHIEVEMENT設置"   
+msgstr "RETROACHIEVEMENT設定"   
 
 msgid "MISSING BIOS CHECK"
 msgstr "缺失BIOS檢測"
@@ -5274,7 +5274,7 @@ msgid "Searching for devices..."
 msgstr "正在搜尋設備..."    
 
 msgid "EMUELEC SETTINGS"
-msgstr "EMUELEC設置"      
+msgstr "EMUELEC設定"      
 
 msgid "SAVE STATES"
 msgstr "已保存記錄"  
@@ -5310,7 +5310,7 @@ msgid "Changes will need an EmulationStation restart."
 msgstr "修改需要重啟EmulationStation"                        
 
 msgid "GAMEPAD CONFIG"
-msgstr "遊戲手把設置"     
+msgstr "遊戲手把設定"     
 
 msgid "EXTERNAL MOUNT OPTIONS"
 msgstr "外置掛載選項"   
@@ -5331,13 +5331,13 @@ msgid "How many times to retry the mount on boot."
 msgstr "開機時重試掛載的次數。"   
 
 msgid "LOCAL BACKUP EMUELEC CONFIGS"
-msgstr "本地備份EMUELEC設置"   
+msgstr "本地備份EMUELEC設定"   
 
 msgid "CLOUD RESTORE SETTINGS AND GAME SAVES"
-msgstr "雲恢復設置和遊戲保存"           
+msgstr "雲恢復設定和遊戲保存"           
 
 msgid "CLOUD BACKUP SETTINGS AND GAME SAVES"
-msgstr "雲備份設置和遊戲保存"   
+msgstr "雲備份設定和遊戲保存"   
 
 msgid "ENABLE AI TRANSLATION SERVICE"
 msgstr "啟用翻譯服務"   
@@ -5391,7 +5391,7 @@ msgid "FILTERS"
 msgstr "過濾" 
 
 msgid "SCRAPE SETTINGS"
-msgstr "抓取設置"
+msgstr "抓取設定"
 
 msgid "GAMES TO SCRAPE FOR"
 msgstr "將要抓取的遊戲"
@@ -5483,7 +5483,7 @@ msgid "ARCADE"
 msgstr "街機"       
 
 msgid "Setup"
-msgstr "設置"     
+msgstr "設定"     
 
 msgid "PORTS"
 msgstr "移植"    
@@ -5513,7 +5513,7 @@ msgid "UPDATE AVAILABLE"
 msgstr "發現可用更新"
 
 msgid "SCRAPER SETTINGS"
-msgstr "抓取器設置"      
+msgstr "抓取器設定"      
 
 msgid "INPUT MANUALLY"
 msgstr "手工輸入"
@@ -5540,7 +5540,7 @@ msgid "SCRAPE BEZEL (16:9)"
 msgstr "抓取外框(16:9)"
 
 msgid "EMUELEC SETTTINGS"
-msgstr "EMUELEC設置"
+msgstr "EMUELEC設定"
 
 msgid "SKIP TO THE NEXT SONG"
 msgstr "跳轉到下一首音樂"
@@ -5564,7 +5564,7 @@ msgid "RETROARCH MENU"
 msgstr "RETROARCH選單"
 
 msgid "USER INTERFACE SETTINGS"
-msgstr "用戶界面設置"
+msgstr "用戶界面設定"
 
 msgid "Force the game to render in this aspect ratio."
 msgstr "強制遊戲以此比例渲染"
@@ -5603,7 +5603,7 @@ msgid "MANUAL"
 msgstr "手冊"
 
 msgid "PADTOKEY SETTINGS"
-msgstr "按鍵對應設置"
+msgstr "按鍵對應設定"
 
 msgid "SCRAPER"
 msgstr "抓取器"
@@ -5624,7 +5624,7 @@ msgid "USER INTERFACE MODE"
 msgstr "用戶界面模式"
 
 msgid "Lock down certain config menus for use with guest users/kids."
-msgstr "對客人和小孩鎖住部分設置"
+msgstr "對客人和小孩鎖住部分設定"
 
 msgid "FRONTEND DEVELOPER OPTIONS"
 msgstr "前端開發者選項"
@@ -5638,7 +5638,7 @@ msgstr "啟動遊戲過濾"
 msgid ""
 "Whether to show or hide game filtering related settings in the view options."
 msgstr ""
-"在查看選項中是否顯示或者隱藏遊戲過濾相關設置。"
+"在查看選項中是否顯示或者隱藏遊戲過濾相關設定。"
 
 msgid "PARSE GAMELISTS ONLY"
 msgstr "只分析遊戲列表"
